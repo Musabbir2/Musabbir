@@ -1,0 +1,27 @@
+h1
+{
+    color:rebeccapurple;
+    font-size: 150px;
+    text-align: center;
+
+}
+p{
+   color: chocolate; 
+}
+.red{
+    color:red;
+}
+.orange{
+    color: sandybrown;
+    margin-right: left 920px;
+
+}
+.blue{
+    color: skyblue;
+}
+.yellow{
+    color:blueviolet;
+}
+.pl{
+    float:right;
+}
